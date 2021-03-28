@@ -1,0 +1,15 @@
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+*.gif
+*.png
+*.js
+*.css
+*.jpg
+*.eot
+*.svg
+*.ttf
+*.woff

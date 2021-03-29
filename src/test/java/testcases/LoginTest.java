@@ -18,7 +18,7 @@ public class LoginTest {
 
     @Test
     public void doLogin(){
-        HashMap<String, String> dictionary = CommonKeywords.readPropertiesFile("serenity.properties");
+        HashMap<String, String> dictionary = CommonKeywords.readPropertiesFile("src/test/resources/serenity.properties");
         driver.get(dictionary.get("baseUrl"));
     }
 }

@@ -14,7 +14,6 @@ import java.util.HashMap;
 public class LoginTest {
     @Managed
     WebDriver driver;
-    //String baseUrl="http://www.demo.guru99.com/v4/index.php";
 
     @Test
     public void doLogin(){
